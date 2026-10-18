@@ -4,4 +4,4 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [link text](comp1238.md)
-- (https://github.com/comp1238f26/asgn1-alice-mafu93)
+https://github.com/alice-mafu93/links
